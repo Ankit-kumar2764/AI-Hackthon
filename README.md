@@ -50,8 +50,9 @@
 👨‍💻 Team
 
 Ankit Kumar – Developer 🚀
-
-<p align="center">💡 Built with ❤️ at <b>[Hackathon Name]</b></p> ```
+Satyam agrawal
+Ankit patel
+<p align="center">💡 Built with ❤️ at <b>[AI Hackathon ]</b></p> ```
 
 ```bash
 # Clone the repo
