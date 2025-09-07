@@ -50,7 +50,7 @@
 👨‍💻 Team
 
 Ankit Kumar – Developer 🚀
-Satyam agrawal
+Satyam agrawal  &
 Ankit patel
 <p align="center">💡 Built with ❤️ at <b>[AI Hackathon ]</b></p> ```
 
