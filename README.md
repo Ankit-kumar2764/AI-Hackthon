@@ -35,7 +35,7 @@
 | **AI / ML**  | LangChain, OpenAI API |
 | **Frontend** | HTML, CSS, React (optional) |
 | **Database** | MongoDB / Firebase |
-| **Deploy**   | Vercel / Heroku / GitHub Pages |
+| **Deploy**   | netlify / GitHub Pages |
 
 ---
 
