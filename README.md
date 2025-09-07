@@ -43,8 +43,7 @@
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/smartdoc-ai.git
-cd smartdoc-ai
+https://github.com/Ankit-kumar2764/AI-Hackthon
 
 # Install dependencies
 pip install -r requirements.txt
