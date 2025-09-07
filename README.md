@@ -39,7 +39,19 @@
 
 ---
 
-## ⚡ Quick Start  
+## ⚡ Quick Start 
+🔮 Future Scope
+
+🚀 Multi-language Support
+🎙 Voice-based Q&A
+📱 Mobile App Integration
+🖼 Image & Table Support
+
+👨‍💻 Team
+
+Ankit Kumar – Developer 🚀
+
+<p align="center">💡 Built with ❤️ at <b>[Hackathon Name]</b></p> ```
 
 ```bash
 # Clone the repo
